@@ -6,7 +6,7 @@ import org.mayo.edu.tcga.helper.Text;
 import org.mayo.edu.tcga.types.ColumnValues;
 
 /**
- * The class constructs the RDF triples.
+ * The class constructs the RDF triples.   
  *
  */
 public class RDF_Composer {

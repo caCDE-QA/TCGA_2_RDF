@@ -1,7 +1,7 @@
 package org.mayo.edu.tcga.types;
 
 /**
- * The values for each column within a row. 
+ * The values for each column within a row.   
  */
 public class ColumnValues {
 

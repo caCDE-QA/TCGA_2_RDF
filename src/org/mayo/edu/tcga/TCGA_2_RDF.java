@@ -15,7 +15,7 @@ import org.mayo.edu.tcga.helper.SheetMethods;
 import org.mayo.edu.tcga.types.ColumnValues;
 
 /**
- * This program takes a spreadsheet containing TCGA data elements 
+ * This program takes a spreadsheet containing TCGA data elements   
  * and converts them into RDF triples.
  * 
  * It hack of a program with no testing and should be treated as such.

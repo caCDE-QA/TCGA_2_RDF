@@ -5,7 +5,7 @@ import org.apache.poi.ss.usermodel.Sheet;
 
 /**
  * Makes sure the row is valid.
- */
+ */  
 public class SheetMethods {
 
 	public static void rowCheck(Sheet pharmSheet, Row row, int numRows)  {
